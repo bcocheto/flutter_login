@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "836237047203",
+    "firebase_url": "https://login-d4963.firebaseio.com",
+    "project_id": "login-d4963",
+    "storage_bucket": "login-d4963.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836237047203:android:470cc1a5f6e59457",
+        "android_client_info": {
+          "package_name": "com.cocheto.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836237047203-1j91mcblu857iu2tjmip3r16ob3vm5uc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cocheto.login",
+            "certificate_hash": "929405a862f314e0a819165469e0385188b51820"
+          }
+        },
+        {
+          "client_id": "836237047203-aaeu86a7j3pd2dhvujoa7fq02ntgjsag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9YxKmm2hbB4tDxnSx2W-f0hYKr0-7d4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836237047203-aaeu86a7j3pd2dhvujoa7fq02ntgjsag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
